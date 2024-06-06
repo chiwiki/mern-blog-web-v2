@@ -9,4 +9,6 @@ Socket/.env
 Client/.env
 backend/serviceAccount.json
 
+Client/dist
+
 
