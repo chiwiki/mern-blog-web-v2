@@ -1,0 +1,19 @@
+{
+  "name": "blog-web-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:backend": "cd backend && npm run server",
+    "start:client": "cd client && npm run dev",
+    "start:socket": "cd socket && npm start",
+    "install:backend": "cd backend && npm install",
+    "install:client": "cd client && npm install",
+    "install:socket": "cd socket && npm install"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

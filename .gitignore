@@ -1,0 +1,12 @@
+
+backend/node_modules/
+Client/node_modules/
+Socket/node_modules/
+
+
+backend/.env
+Socket/.env
+Client/.env
+backend/serviceAccount.json
+
+
